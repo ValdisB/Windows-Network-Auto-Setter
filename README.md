@@ -2,6 +2,7 @@
 Version: 1.1.0  
 Author: Valdis B.  
 License: MIT License
+
 Platform: Windows 10 / Windows 11 (PowerShell 5+ / PowerShell 7+)
 
 ## Overview
