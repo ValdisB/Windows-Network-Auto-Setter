@@ -68,10 +68,8 @@ Mobile networks and CGNAT almost always require MTU < 1500.
 
 ## Changelog
 ### 1.1.0
-- Added fallback public IP sources  
-- Cleaned code and comments  
-- Updated version header  
-- Improved error handling  
-
-### 1.0.0
 - Initial release
+
+## Support
+If you find this project useful, support it here:
+https://paypal.me/ValdisBerzinsh
