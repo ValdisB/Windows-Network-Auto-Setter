@@ -1,8 +1,7 @@
 # Windows Network Auto-Setter (MTU Optimizer)
 Version: 1.1.0  
 Author: Valdis B.  
-License: MIT License
-
+License: MIT License  
 Platform: Windows 10 / Windows 11 (PowerShell 5+ / PowerShell 7+)
 
 ## Overview
