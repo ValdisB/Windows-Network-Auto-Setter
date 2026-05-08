@@ -2,7 +2,7 @@
 Version: 1.1.0  
 Author: Valdis B.  
 License: MIT License
-Platform: Windows 10 / Windows 11 (PowerShell 5+)
+Platform: Windows 10 / Windows 11 (PowerShell 5+ / PowerShell 7+)
 
 ## Overview
 Windows Network Auto-Setter is a lightweight PowerShell utility that automatically detects your active network type (mobile vs fixed) and applies the optimal MTU value.
